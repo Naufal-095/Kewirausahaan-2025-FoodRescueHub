@@ -1,6 +1,5 @@
-# FoodRescueHub_KWU_G
-# [Nama Startup/Produk]
-> **Tagline:** [Tulis satu kalimat proposisi nilai yang tegas]
+# [FoodRescueHub]
+> **Tagline:** [Dari Limbah Menjadi Uang]
 
 ---
 
@@ -16,12 +15,12 @@
 ---
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan validasi masalah di wilayah **[Lokasi]** dengan melibatkan **[Jumlah]** responden.
+Kami telah melakukan validasi masalah di wilayah **[Jakarta dan Bogor]** dengan melibatkan **[4]** responden.
 
-* **Permasalahan Utama:** [Deskripsi singkat masalah]
-* **Solusi yang Ditawarkan:** [Deskripsi singkat solusi]
+* **Permasalahan Utama:** [Restoran terkadang memiliki stok makanan berlebih yang terkadang menjadi limbah dan juga peternakan memiliki biaya pakan yang mahal]
+* **Solusi yang Ditawarkan:** [biaya pakan yang lebih murah dan beredia mengambil stok makanan yang belebih untuk diolah menjadi pakan]
 
-📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](Link_Google_Docs)**
+📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](https://docs.google.com/document/d/1XVZAvOi5TLf5v6s6ndHBsKM5bGdEIXREPnLTlmuMMR4/edit?usp=sharing)**
 *(Dokumen ini memuat transkrip wawancara, foto kegiatan, dan analisis validasi)*
 
 ---
@@ -37,10 +36,10 @@ Kami telah melakukan validasi masalah di wilayah **[Lokasi]** dengan melibatkan 
 ---
 
 ## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
-* **Status Merek:** [Aman/Tidak Aman berdasarkan PDKI]
-* **Bentuk Badan Usaha:** [PT Perorangan/CV]
+* **Status Merek:** [Aman berdasarkan PDKI]
+* **Bentuk Badan Usaha:** [CV]
 
-📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](Link_Google_Docs_Legal)**
+📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1k3kBzxATMLwrc-MmdbiVN-1fuhnLIumCJpwxkPQ35dU/edit?usp=sharing)**
 
 ---
 
